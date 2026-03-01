@@ -1,2 +1,1 @@
-print("This is written by subash")
-print("After initial commit i am plaaning second commit")
+print("This is code from b1 branch")
